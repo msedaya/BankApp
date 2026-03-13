@@ -11,4 +11,4 @@ A command-line banking app built in C# demonstrating OOP fundamentals.
 - OOP — Classes, Encapsulation, Properties
 
 ## How to Run
-dotnet run
+dotnet run on Terminal
